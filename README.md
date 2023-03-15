@@ -1,1 +1,1 @@
-[https://beiluoshimen.github.io](url)
+https://beiluoshimen.github.io
